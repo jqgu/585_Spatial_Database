@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="lib/appctxapi.jar"/>
+	<classpathentry kind="lib" path="lib/aqapi_g.jar"/>
+	<classpathentry kind="lib" path="lib/aqapi.jar"/>
+	<classpathentry kind="lib" path="lib/aqxml_g.jar"/>
+	<classpathentry kind="lib" path="lib/aqxml.jar"/>
+	<classpathentry kind="lib" path="lib/CartridgeServices.jar"/>
+	<classpathentry kind="lib" path="lib/CDC.jar"/>
+	<classpathentry kind="lib" path="lib/ExprFilter.jar"/>
+	<classpathentry kind="lib" path="lib/extusrupgrade.jar"/>
+	<classpathentry kind="lib" path="lib/jdm.jar"/>
+	<classpathentry kind="lib" path="lib/jmscommon.jar"/>
+	<classpathentry kind="lib" path="lib/ODCI.jar"/>
+	<classpathentry kind="lib" path="lib/ojdm_api.jar"/>
+	<classpathentry kind="lib" path="lib/ons.jar"/>
+	<classpathentry kind="lib" path="lib/orai18n-mapping.jar"/>
+	<classpathentry kind="lib" path="lib/orai18n.jar"/>
+	<classpathentry kind="lib" path="lib/servlet.jar"/>
+	<classpathentry kind="lib" path="lib/sqljtype.jar"/>
+	<classpathentry kind="lib" path="lib/usermigrate-1_0.jar"/>
+	<classpathentry kind="lib" path="lib/xdb_g.jar"/>
+	<classpathentry kind="lib" path="lib/xdb.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc5.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc6_g.jar"/>
+	<classpathentry kind="lib" path="lib/sdoapi.jar"/>
+	<classpathentry kind="lib" path="lib/sdoutl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
